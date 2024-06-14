@@ -1,0 +1,21 @@
+{
+    "headless": false,
+    "output_form": [
+        "URL",
+        "Date",
+        "Text",
+        "Blockchain Address",
+        "Blockchain Type"
+    ],
+    "token": "", 
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188",
+    "urls": [
+        "https://twitter.com/PeckShieldAlert",
+        "https://twitter.com/SlowMist_Team",
+        "https://twitter.com/CertiKAlert",
+        "https://twitter.com/zachxbt",
+        "https://twitter.com/BeosinAlert",
+        "https://twitter.com/BlockSecTeam",
+        "https://twitter.com/Phalcon_xyz"
+    ]
+}

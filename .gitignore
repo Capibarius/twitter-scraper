@@ -1,0 +1,11 @@
+*.xls
+data.json
+/output
+/Archieve
+token
+file.log
+requirements.txt
+tweets_test.db
+__pycache__/
+*.pyc
+*.pyo
